@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.backGroud1 {
+  background: #218c74;
+}
+.backGroud2 {
+  background: #ccae62;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+#navbar {
+  background: #218c74;
+  border-bottom: 1px solid #218c74;
+}
+
+.ant-menu-item-selected {
+  color: #f7f1e3
+}
