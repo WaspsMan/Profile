@@ -2,7 +2,7 @@
   "name": "profile2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://waspsman.github.io/Profile/",
+  "homepage": "https://waspsman.github.io/",
   "dependencies": {
     "antd": "^3.8.1",
     "gh-pages": "^1.2.0",
